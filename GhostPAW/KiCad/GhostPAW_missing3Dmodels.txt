@@ -1,0 +1,23 @@
+### Missing 3D models - created on 2025-08-31 14:41
+### Printed by checking_3D_models plugin
+Board file: C:\Users\alexa\My Drive\Git Projects\GBAWii3\KiCAD\GhostPAW\GhostPAW.kicad_pcb
+3D missing models written to:
+C:\Users\alexa\My Drive\Git Projects\GBAWii3\KiCAD\GhostPAW\GhostPAW_missing3Dmodels.txt
+-------
+('J1', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\505110-0592.stp')
+('M1', 'C:/Users/alexa/Documents/Git Projects/GBAWii3/KiCAD/VZ4KC1B1051202/KiCADv6/VZ4KC1B1051202.stp')
+('IC1', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\PIC18F24K42-I_MV.stp')
+('IC2', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\DRV2603RUNR.stp')
+('S4', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\TL3315NF100Q.stp')
+('S3', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\TL3315NF100Q.stp')
+('S2', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\TL3315NF100Q.stp')
+('S1', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\TL3315NF100Q.stp')
+('LED1', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\ASMB-LTC2-0A335.stp')
+('J3', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\505110-1092.stp')
+('J2', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\54102-0164.stp')
+('IC9', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\TPS22995RZFR.stp')
+('IC6', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\74LVC1G04GM,115.stp')
+('H1', 'C:\\Users\\alexa\\Documents\\SamacSys_Library\\KiCad\\SamacSys_Parts.3dshapes\\SJ3-35094A.stp')
+-------
+NUM of 3D missing models:14
+checked extensions ['.stp', '.step', '.stpZ']

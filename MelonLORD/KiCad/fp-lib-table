@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SMT Module Library")(type "KiCad")(uri "C:/Users/alexa/Documents/Git Projects/melonHD/KiCAD/SMT Module Library.pretty")(options "")(descr ""))
+)

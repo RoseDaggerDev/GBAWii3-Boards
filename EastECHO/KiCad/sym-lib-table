@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-07-13_09-53-12")(type "KiCad")(uri "C:/Users/alexa/Documents/Git Projects/GBAWii3/KiCAD/ul_KSC441V2-70SH-SPDELTA-LFS/KiCADv6/2025-07-13_09-53-12.kicad_sym")(options "")(descr ""))
+  (lib (name "S8421-45R")(type "KiCad")(uri "C:/Users/alexa/Documents/Git Projects/GBAWii3/KiCAD/S8421_45R/S8421-45R.kicad_sym")(options "")(descr ""))
+)
