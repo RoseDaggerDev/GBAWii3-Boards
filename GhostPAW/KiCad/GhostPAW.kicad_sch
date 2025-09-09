@@ -12,8 +12,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "SW"
-				(at 10.16 12.7 0)
+			(property "Reference" "SW2"
+				(at 7.62 7.62 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -21,14 +21,14 @@
 				)
 			)
 			(property "Value" "CUS-13TB"
-				(at 10.16 10.16 0)
+				(at 7.62 5.08 0)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
 				)
 			)
-			(property "Footprint" "CUS-13TB_NDC"
+			(property "Footprint" "RoseDaggerDev:CUS-13TB_NDC"
 				(at 0 0 0)
 				(effects
 					(font
@@ -253,6 +253,26 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "CUS-13TB_1_1"
+				(pin input line
+					(at 6.35 -5.08 0)
+					(length 2.54)
+					(name "SH"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "SH"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3746,6 +3766,16 @@
 			(type default)
 		)
 		(uuid "300f6ea1-e06f-48bf-8deb-9b1948133ff6")
+	)
+	(wire
+		(pts
+			(xy 140.97 46.99) (xy 142.24 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "365e6e79-3969-4d66-9487-87c04b9e5af8")
 	)
 	(wire
 		(pts
@@ -7648,6 +7678,9 @@
 		(pin "4"
 			(uuid "0242b277-4176-428c-a331-34c354c15fd2")
 		)
+		(pin "SH"
+			(uuid "170866e2-c16c-448f-8d56-647812500b79")
+		)
 		(instances
 			(project ""
 				(path "/0c461ae4-ef22-4515-a234-7dcdbd16ae6e"
@@ -9906,6 +9939,72 @@
 			(project "GhostPAW"
 				(path "/0c461ae4-ef22-4515-a234-7dcdbd16ae6e"
 					(reference "TP22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 140.97 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af09b61d-e876-4f87-98d5-b4c429a621c2")
+		(property "Reference" "#PWR030"
+			(at 140.97 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 140.97 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 140.97 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 140.97 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8f31aac9-9cbd-452e-ba6c-59d132a35768")
+		)
+		(instances
+			(project "GhostPAW"
+				(path "/0c461ae4-ef22-4515-a234-7dcdbd16ae6e"
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
